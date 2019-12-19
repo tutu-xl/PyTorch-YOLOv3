@@ -15,7 +15,7 @@
     
     $ cd ..
     
- 6. Download COCO  
+ 6. Download COCO  (Optional)
  
     $ cd data/
     
