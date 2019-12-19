@@ -3,7 +3,7 @@
  3. Install PyTorch 1.x (https://pytorch.org/get-started/locally/)
  4. Clone and install requirements
  
-    $ git clone https://github.com/eriklindernoren/PyTorch-YOLOv3
+    $ git clone https://github.com/tutu-xl/PyTorch-YOLOv3
     
     $ cd PyTorch-YOLOv3/
     
